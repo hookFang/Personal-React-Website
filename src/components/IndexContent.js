@@ -15,6 +15,7 @@ export default function IndexContent() {
                 Howdy.
               </span>
               &nbsp;
+			  <br />
               <br />I am Full Stack Developer based in Toronto.
               <br />
               Interested in solving real life problems with the help of
