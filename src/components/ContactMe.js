@@ -10,7 +10,7 @@ export default function ContactMe() {
         </div>
         <hr className="modern-form__hr" />
         <div className="modern-form__form-container">
-          <form action="/contactUs" method="post">
+          <form action="https://getform.io/f/4af50949-51b1-4eaf-a78a-9dbd4175aaea" method="POST">
             <div className="form-row">
               <div className="col col-contact">
                 <div className="form-group modern-form__form-group--padding-r">
@@ -18,7 +18,7 @@ export default function ContactMe() {
                     className="form-control input input-tr"
                     type="text"
                     placeholder="First Name"
-                    name="firstName"
+                    name="name"
                   />
                   <div className="line-box">
                     <div className="line" />
