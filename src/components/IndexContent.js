@@ -1,21 +1,29 @@
 export default function IndexContent() {
   return (
     <div
-      style={{ marginTop: "10em", color: "white", fontFamily: "Roboto Mono" }}
+      style={{
+        marginTop: "10em",
+        color: "white",
+        fontFamily: "Roboto Mono",
+      }}
     >
       <div className="container">
         <div className="row flex-column-reverse flex-sm-column-reverse flex-md-row flex-lg-row flex-xl-row">
           <div className="col-md-6 col-xl-7">
             <p
               className="text-center"
-              style={{ fontSize: "17px", fontWeight: "bold" }}
+              style={{
+                fontSize: "17px",
+                fontWeight: "bold",
+                lineHeight: "25px",
+              }}
             >
               <br />
               <span style={{ fontWeight: "bold", fontSize: "35px" }}>
                 Howdy.
               </span>
               &nbsp;
-			  <br />
+              <br />
               <br />I am Full Stack Developer based in Toronto.
               <br />
               Interested in solving real life problems with the help of
