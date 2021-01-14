@@ -40,8 +40,6 @@ export default function Projects() {
                     creates a random URL which they can share. It will allow
                     anyone with this URL to download the uploaded file. No need
                     to Sign Up, easy free file sharing service.
-                    <br />
-                    <br />
                   </p>
                   <div className="btn-group" role="group">
                     <a
@@ -100,7 +98,6 @@ export default function Projects() {
                     entered by the user. It only checks the syntax of the E-mail
                     ID entered by the user. Gives the option to provide
                     different domain names to change the Regex of the validator
-                    <br />
                   </p>
                   <div className="btn-group" role="group">
                     <a
@@ -158,9 +155,6 @@ export default function Projects() {
                     A YouTube View Bot, based on proxy rotation, with Java and
                     Selenium. This project is ONLY for EDUCATIONAL purpose.
                     Makes use of an API to get a list of proxy IP's
-                    <br />
-                    <br />
-                    <br />
                   </p>
                   <div className="btn-group" role="group">
                     <a
@@ -217,10 +211,7 @@ export default function Projects() {
                   >
                     Gesture controlled car using Arduino. The accelerometer
                     reads the x-y axis values from your hand and transmits it to
-                    the car through a WiFi transmitter.&nbsp;
-                    <br />
-                    <br />
-                    <br />
+                    the car through a WiFi transmitter.
                   </p>
                   <div className="btn-group" role="group">
                     <a
@@ -284,8 +275,6 @@ export default function Projects() {
                     HashMaps Contact List App. Contact-List app provides users
                     the ability to read existing contacts from there phone,
                     upload existing contacts to there signed up account.
-                    <br />
-                    <br />
                   </p>
                   <div className="btn-group" role="group">
                     <a
@@ -345,11 +334,6 @@ export default function Projects() {
                     <br />
                     <br />
                     Scrabble word game project
-                    <br />
-                    <br />
-                    <br />
-                    <br />
-                    <br />
                   </p>
                   <div className="btn-group" role="group">
                     <a
@@ -407,7 +391,6 @@ export default function Projects() {
                     Basketball Team Management Website gives an overview on the
                     basic and advanced features avaialble in C# (MVC). Shows the
                     basic functionality of CRUD operations.
-                    <br />
                   </p>
                   <div className="btn-group" role="group">
                     <a
